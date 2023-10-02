@@ -1,0 +1,9 @@
+"DO NOT MERGE":
+- '**/README.md'
+- '**/LICENSE'
+- '**/github/**'
+
+"Documentation":
+- '**/*.md'
+- '**/*.txt'
+- '**/*.docx'
