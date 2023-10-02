@@ -5,6 +5,6 @@
 ## Кто участвует в проекте
 В проекте участвую я (@fedKotikeD) и также некоторые мои коллеги тех.админы (не смогу упомянуть, не знаю логинов)
 ## Ссылки
-Я - fedKotikeD#0
-Проект(Breaking Facility) - https://discord.gg/GwKyUsU96B
-Клонировать - git clone https://github.com/fedKotikeD/breaking-facility-bot
+Я - fedKotikeD#0 <br>
+Проект(Breaking Facility) - https://discord.gg/GwKyUsU96B <br>
+Клонировать - git clone https://github.com/fedKotikeD/breaking-facility-bot <br>
