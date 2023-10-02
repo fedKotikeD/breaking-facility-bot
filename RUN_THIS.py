@@ -5,7 +5,7 @@ from discord.ext import commands
 
 #players = requests.get('ip/status')
 bot = discord.Client(intents=discord.Intents.all(), command_prefix='>')
-bot_token = "MTE1ODI3OTEwMjc0MzE5OTgyNg.GYxdtH.1nkbNZZHoapWnbNzLNsiLRfyPa5N3AP1KnASPM"
+bot_token = "hide"
 client = commands.Bot(command_prefix='>', intents=discord.Intents.all())
 
 @bot.event
