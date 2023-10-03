@@ -24,7 +24,7 @@ async def on_ready():
 
 server_status = requests.get('ip/status')
 @bot.event
-async def on_message(message):
+async def on_message1(message):
     if message.content.startswith("status"):
         await message.channel.send(server_status)
 
