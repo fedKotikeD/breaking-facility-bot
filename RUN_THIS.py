@@ -16,6 +16,7 @@ async def on_message(message):
 @bot.event
 async def on_ready():
     print("Бип-буп! Запуск успешный!")
+    await bot.change_presence(activity=discord.Game(name="Breaking Facility"))
 
 @client.command
 async def hello(ctx):
