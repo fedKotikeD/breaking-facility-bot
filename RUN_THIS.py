@@ -22,7 +22,7 @@ async def on_ready():
 # async def hello(ctx):
 #     await ctx.send("Hi!")
 
-server_status = requests.get('ip/status')
+server_status = requests.get('195.189.16.224:1212/status')
 @bot.event
 async def on_message1(message):
     if message.content.startswith("status"):
